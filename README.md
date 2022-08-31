@@ -1,1 +1,1 @@
-# covid_inactivation
+See VIDER_epidemiological_modeling.pdf
